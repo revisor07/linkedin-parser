@@ -1,7 +1,7 @@
 # linkedin-parser
 
 To get the python package run command in the directory you want it to appear in:
-  git clone https://github.com/talent-games/linkedin-parser
+  git clone https://github.com/revisor07/linkedin-parser
 
 Dependencies required for the project to run:
   Python3, all modules from linkedin-parser/requirenments.txt
