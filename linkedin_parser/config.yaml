@@ -2,11 +2,11 @@ DATA:
   path: "/Users/gear8675/Documents/linkedin-parser/linkedin_parser/data/test4"
 
 BROWSER:
-  proxy: "216.56.48.118:9000"
+  proxy: "999.99.99.999:9000"
   chrome_options:
     - "--disable-infobars"
     - "user-agent=google"
 
 LINKEDIN:
-  email: "alex@gmail.com"
-  password: "snake"
+  email: "test@gmail.com"
+  password: "test123"
