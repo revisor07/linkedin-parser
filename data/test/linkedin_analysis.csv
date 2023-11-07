@@ -1,0 +1,80 @@
+Name,Place,Experience
+Tom MacWright,"Washington, District Of Columbia","[u'Observable Systems(2017-Present)', u'WorkingIdea(2017-2017)', u'Mapbox(2011-2017)', u'Development Seed(2009-2011)']"
+Martin Lindhe,San Francisco Bay Area,"[u'Universal Audio(2016-Present)', u'Collective(2010-2015)', u'Lionfish LLC(2007-2010)', u'Loud Technologies(2001-2007)', u'E Solutions Corporation(1999-2001)']"
+Ian VanSchooten,Greater Detroit Area,[]
+Minglei Tu,"Hangzhou City, Zhejiang, China","[u'treefinance(2017-Present)', u'ChinaNetCenter - The leading CDN & IDC provider in China(2016-2017)', u'Green Net World(2015-2015)', u'eHealthInsurance(2010-2015)', u'The POP Company(2008-2008)']"
+Gray Brooks,Washington D.C. Metro Area,"[u'GSA(2012-Present)', u'Federal Communications Commission(2009-2012)', u'Obama for America(2007-2009)', u'Kalyn Free for Congress(2004-2004)', u'Dean for America(2003-2004)']"
+Francisco Souza,"Brooklyn, New York","[u'The New York Times(2016-Present)', u'Associa\xe7\xe3o Python Brasil(2009-Present)', u'CXC Global(2016-2016)', u'Globo.com(2013-2016)', u'Globo.com(2011-2013)']"
+Keiichi Shimamura,Greater Atlanta Area,"[u'CareerBuilder(2015-Present)', u'CareerBuilder(2013-2015)', u'CareerBuilder(2012-2013)', u'CareerBuilder(2011-2011)', u'CareerBuilder(2009-2010)']"
+Richard Borras,"Miami, Florida",[]
+Kyle Drake,"Portland, Oregon Area","[u'Skyhook(2014-Present)', u'Neocities(2013-Present)', u'Coinpunk(2013-Present)', u'BitPay, Inc.(2013-2013)', u'Esri(2012-2013)']"
+Luke Sampson,"Swindon, United Kingdom","[u'Great Western Hospitals NHS Foundation Trust(2017-Present)', u'Computer Fix Swindon(2015-Present)', u'Sensata Limited(2015-2017)', u'Havas helia(2012-2015)', u'Monahans(2001-2011)']"
+Ross W Smith II,Greater New York City Area,[]
+Mitchell Hashimoto,Greater Los Angeles Area,[]
+Richard Herrera,Greater Los Angeles Area,"[u'National Football League (NFL)(2016-Present)', u'National Football League (NFL)(2014-Present)', u'Doctyper(2010-Present)', u'RED Interactive Agency(2010-2013)', u'Schematic(2007-2010)']"
+Stephen Edgar,"Dorking, Surrey, United Kingdom",[]
+Daniel Tao,"Austin, Texas","[u'Atlassian(2014-Present)', u'Google(2013-2014)', u'Cardpool(2012-2013)', u'ThoughtWorks(2011-2012)', u'MP Capital(2009-2011)']"
+Kenneth Reitz,Washington D.C. Metro Area,"[u'Heroku(2011-Present)', u'Python Software Foundation(2012-Present)', u'kennethreitz.org(2006-Present)', u'GitHub(2011-2012)', u'Arc90(2011-2011)']"
+Brian Flad,Greater Philadelphia Area,"[u'Warner Bros. Entertainment Group of Companies(2016-Present)', u'CloudMine(2015-2016)', u'Health Market Science(2013-2015)', u'The Wharton School(2007-2013)', u'Siemens Healthcare(2007-2008)']"
+Rebecca Williams,"Washington, District Of Columbia","[u'Office of Management and Budget(2017-Present)', u'Johns Hopkins University Center for Government Excellence(2016-2017)', u'Office of Management and Budget(2015-2016)', u'GSA(2014-2015)', u'Sunlight Foundation(2013-2014)']"
+David Brown,"Jacksonville, Florida","[u'Brooksource(2016-Present)', u'Brunet-Garcia Advertising, Inc.(2016-Present)', u'Baptist Medical Center(2010-2016)']"
+Cody Stoltman,"Austin, Texas","[u'Knock.co(2017-Present)', u'The Sails Company(2015-2017)', u'Treeline(2014-2017)', u'Balderdash(2013-2014)', u'Texas State University(2009-2013)']"
+Hideki Itakura,"San Jose, California",[]
+Gleb Mazovetskiy,"London, United Kingdom","[u'Google(2014-Present)', u'Zuigo(2013-2013)', u'Just Landed(2009-2013)', u'iOrder(2009-2011)', u'Devexperts(2008-2009)']"
+Ben Frederickson,"Vancouver, Canada Area",[]
+dan tao,China,[]
+Mike McNeil,"Austin, Texas","[u'The Sails Company(2015-Present)', u'Balderdash(2011-Present)', u'Unwired Nation(2011-2012)', u'2 Hour Commitment(2010-2012)', u'BlinkTop(2010-2011)']"
+Traun Leyden,San Francisco Bay Area,"[u'Couchbase(2013-Present)', u'Signature Labs Inc.(2010-2013)', u'Comdasys AG(2008-2010)', u'Branch Cut(2006-2008)', u'Atypon Systems, Inc.(2000-2006)']"
+Richard Lyon,"Canton, Georgia","[u'Homestead Hospice(2016-Present)', u'Home(2015-2016)', u'Unisys(2015-2015)', u'Piolax(2000-2014)']"
+Jens Schauenberg,"Cologne Area, Germany","[u'PwC cundus AG(2004-Present)', u'Vodafone(1994-2004)']"
+Tim Diggins,"London, United Kingdom",[]
+Peter Edge,"Amsterdam Area, Netherlands","[u'Uber(2016-Present)', u'Pachyderm, Inc.(2015-2015)', u'Codeship(2014-2015)', u'Locality(2013-2014)', u'Google(2011-2013)']"
+Konstantin Molchanov,Greater Seattle Area,"[u'Respawn Entertainment(2017-Present)', u'Self-Employed(2016-2017)', u'Goodgame Studios(2015-2016)', u'Crytek(2009-2014)', u'Crytek Kiev(2006-2009)']"
+Armin Ronacher,Austria,"[u'Sentry(2015-Present)', u'Fireteam Ltd(2015-Present)', u'Armin Ronacher(2014-Present)', u'Togethera.com(2014-2016)', u'Fireteam Ltd(2012-2015)']"
+Chase Bolt,"Scottsboro, Alabama","[u'Goodwill Easter Seals (Mobile, AL)(2016-Present)', u'Goodwill Easter Seals (Mobile, AL)(2016-2016)', u'WestRock Company(2015-2015)', u'Camp Ascca(2014-2014)', u'WestRock Company(2013-2013)']"
+Jacobo de Vera,"Santa Cruz De Tenerife Area, Spain","[u'Qnective AG(2016-Present)', u'Qnective AG(2014-2016)', u'Corvil(2011-2014)', u'IBM Ireland(2008-2011)', u'IBM Ireland(2008-2008)']"
+Esben Petersen,"Copenhagen Area, Capital Region, Denmark",[]
+Scott Gress,"Austin, Texas Area","[u'The Sails Company(2015-Present)', u'CraftLaunch(2011-Present)', u'Pig and Cow Design(2010-Present)', u'BorgSolutions, Inc.(2008-2010)', u'eSession.com(2006-2008)']"
+Joel Oliveira,Greater Boston Area,[]
+Rodrigo Silveira,San Francisco Bay Area,"[u'Dematic North America(2014-Present)', u'Markodojo(2013-Present)', u'MADRONE Software Technologies(2010-Present)', u'Markodojo(2013-2014)', u'Mendosoft Inc.(2010-2014)']"
+Christopher Grebs,"Berlin Area, Germany","[u'Mozilla(2015-Present)', u'Freelance(2013-Present)', u'Kitchen Stories -- AJNS New Media GmbH(2015-2015)', u'Moccu GmbH & Co. KG(2014-2015)', u'ubuntuusers.de(2007-2014)']"
+Andrei Baranouski,Belarus,[]
+Larry Finger,"Lavonia, Georgia","[u'First Baptist Church of Lavonia(1996-Present)', u'Cassville Baptist Church, Cassville, GA(1985-1996)', u'Edwards Chapel Baptist Church, Athens, GA(1980-1983)']"
+Andrews Medina,"Rio de Janeiro Area, Brazil","[u'JusBrasil(2017-Present)', u'Globo.com(2008-2016)']"
+Mikeal Rogers,"San Francisco, California","[u'Samsung NEXT(2017-Present)', u'The Linux Foundation(2015-2017)', u'Modulus(2015-2015)', u'DigitalOcean(2014-2015)', u'Getable(2013-2014)']"
+Georg Brandl,"Munich Area, Germany","[u'Python Software Foundation(2010-Present)', u'Python Software Foundation(2005-Present)']"
+Wandenberg Peixoto,"Copenhagen, Capital Region, Denmark","[u'INPAY - The global payments network(2017-Present)', u'Tradeshift(2016-2017)', u'Globo.com(2007-2016)', u'Value Team(2007-2007)', u'Etnoteam(2006-2007)']"
+Hannah Wolfe,"Northampton, United Kingdom",[]
+Lunny Xiao,"Shanghai City, China","[u'Rying Software Tech.(2011-Present)', u'Yeagiaro(2008-2011)']"
+Cindia Carlson-Tsuda,"Lincoln, Nebraska Area",[]
+David Bau,Greater Boston Area,[]
+Ricki Hastings,"Manchester, Greater Manchester, United Kingdom","[u'Degree 53(2014-Present)', u""Sainsbury's(2012-2014)"", u'Grafix Signs(2010-2011)']"
+Rachael Shaw,"Austin, Texas","[u'The Sails Company(2015-Present)', u'Balderdash(2012-2015)', u'Digitaleo(2011-2011)', u'Upland Hills Farm(2004-2006)']"
+Marcelo Camargo,"Campinas Area, Brazil",[u'Best Way Internet Provider(2001-Present)']
+Philip Ashlock,"Washington, District Of Columbia",[]
+Jack Pearkes,"Los Angeles, California","[u'HashiCorp(2014-Present)', u'Hashicorp(2014-2016)', u'kiip(2012-2013)', u'kiip(2011-2012)', u'Trickplay Inc.(2010-2011)']"
+Ricki Hastings,"Manchester, Greater Manchester, United Kingdom","[u'Degree 53(2014-Present)', u""Sainsbury's(2012-2014)"", u'Grafix Signs(2010-2011)']"
+Sean OMeara,"Brooklyn, New York","[u'Fastly(2016-Present)', u'Chef Software(2013-2016)', u'Chef (formerly Opscode)(2011-2013)', u'Paperless Post(2010-2011)', u'Drop.io(2010-2010)']"
+Mike Morris,"San Diego, California","[u'Workflow Masters(2014-Present)', u'Mikesconsulting(2008-2014)', u'Brother International Corporation(2006-2014)', u'Stryker(2003-2006)', u'Stryker(2003-2005)']"
+Tom Duffield,Greater Minneapolis-St. Paul Area,"[u'Chef Software(2015-Present)', u'Chef (formerly Opscode)(2013-2014)', u'Accenture(2011-2013)', u'UW-Madison DoIT(2008-2011)', u'Accenture Technology Labs(2010-2010)']"
+Filipe Fernandes,"Toronto, Canada Area","[u'Unata Inc.(2015-Present)', u'theScore, Inc.(2012-2015)', u'Score Media Ventures(2009-2012)', u'MTS Allstream(2008-2009)', u'Deloitte(2007-2008)']"
+Dimitar Dobrev,"Minneapolis, Minnesota","[u'MentorMate(2012-Present)', u'MentorMate(2002-2012)', u'Hardradi LLC(2000-2002)', u'i:FAO(1999-2000)', u'Ms Kapriz Commerce(1997-1998)']"
+Tim Smith,Ireland,[]
+Marcos Henrich,"Lisbon Area, Portugal","[u'Microsoft(2016-2016)', u'Xamarin(2014-2016)']"
+Travis Webb,"Norfolk, Virginia","[u'ADP(2017-Present)', u'Langa, Inc(2015-Present)', u'xTuple ERP+CRM and xTupleCommerce Web Portal(2013-2014)', u'NBT Solutions(2012-2013)', u'Integrated Logistics 2000, LLC.(2011-2012)']"
+Haley Van Dyck,"Washington, District Of Columbia",[]
+Drew Allen,"Knoxville, Tennessee Area",[]
+John W Long Jr,Greater Denver Area,"[u'Green Farms LLC/Green Farms Consulting LLC(2010-Present)', u'US Army(1989-1992)']"
+Simon Hartcher,"Sydney, Australia","[u'Bonjoro(2016-Present)', u'Smart Sports Solutions(2014-2016)', u'PROticket Pty Ltd(2008-2014)', u'Avsound Productions(2007-2008)', u'LJ Hooker(2007-2007)']"
+Martin Journois,"Clermont-Ferrand Area, France","[u'Michelin solutions(2013-Present)', u'Michelin(2009-2013)', u'Saxo Bank(2008-2008)', u'Synthesis Bank(2007-2008)']"
+Dan Cryer,"Bollington, Cheshire, United Kingdom","[u'Block 8 Digital(2012-Present)', u'PHPCI(2013-Present)', u'Real and Smooth Ltd.(2011-2012)', u'Invision Power Services(2010-2011)', u'Media Wow(2010-2010)']"
+Jacob Perkins,"San Francisco, California","[u'Insight Engines(2015-Present)', u'Weotta(2010-2015)', u'Metamason Web Development Studio(2005-2006)', u'(2005-2006)', u'Center for Engineering Computing(2001-2005)']"
+Ronny Pfannschmidt,"Rosenheim, Bavaria, Germany",[]
+Andrew Bird,"Melbourne, Australia",[]
+Nicola Bonelli,"Pisa Area, Italy","[u'CommProve(2011-Present)', u'University of Pisa(2010-Present)', u'University of Trento (Dep. of Information Engineering)(2013-2013)', u'Department of Information Engineering(2013-2013)', u'University of Pisa(2011-2011)']"
+John Keiser,Greater Seattle Area,"[u'Microsoft(2016-Present)', u'Chef Software(2011-2016)', u'Microsoft(2008-2011)', u'Microsoft(2006-2008)', u'Microsoft(2003-2006)']"
+Nash Tsai,Taiwan,"[u'Delta Electronics(2014-Present)', u'Zoeller Taiwan(2012-2014)', u'Zoeller Pump Company(2013-2013)', u'Sebesta Blomberg(2010-2010)', u'DesignWise Medical(2010-2010)']"
+Joe Birch,"Brighton, United Kingdom",[]
+John O'Nolan,"London, United Kingdom","[u'Ghost(2013-Present)', u'Freelance(2006-2013)', u'WordPress(2009-2012)']"
+Rob Story,"Portland, Oregon","[u'Stripe(2017-Present)', u'Simple Finance(2014-2017)', u'DataPad(2013-2014)', u'Vestas(2012-2013)', u'Vestas(2011-2012)']"
+Pasin Suriyentrakorn,San Francisco Bay Area,"[u'Couchbase(2014-Present)', u'Oracle(2012-2014)', u'Mobilitz Inc.(2010-2012)', u'Oracle(2008-2011)', u'RealNetworks(2008-2008)']"
