@@ -1,5 +1,5 @@
 DATA:
-  path: "/Users/gear8675/Documents/linkedin-parser/linkedin_parser/data/test4"
+  path: "/Users/test..."
 
 BROWSER:
   proxy: "999.99.99.999:9000"
